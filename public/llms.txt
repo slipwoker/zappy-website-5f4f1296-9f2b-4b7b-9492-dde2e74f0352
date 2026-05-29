@@ -1,0 +1,83 @@
+# Aviv Msika — Generative Engine Optimization Map
+
+> Aviv Msika is a multidisciplinary creative professional operating at the intersection of strategy and visual artistry — a Social Media Manager, Creative Strategist, professional photographer, and video editor who handles projects entirely in-house from concept to production. The brand exudes an artistic, chic, and business-savvy identity tailored for high-end lifestyle, culinary, and e-commerce clients. The aesthetic vision is luminous and sophisticated — think clean typography, generous white space, and a softly feminine palette of cream, white, and muted sage green — designed to communicate both creative excellence and strategic authority.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Aviv Msika delivers premium social media management platforms strategy, blending creative vision with data-driven results for lifestyle, culinary &amp; e-commerce brands. Start growing today.
+
+### About Me
+https://example.com/about
+Meet Aviv Msika — a multidisciplinary creative strategist, photographer &amp; video editor offering a full social media management service from concept to stunning execution. One vision, zero outsourcing.
+
+### Portfolio
+https://example.com/portfolio
+Explore a curated portfolio of high-end social media management for small business and luxury brands — photography, video, and strategy that stops the scroll and drives real engagement.
+
+### Clients
+https://example.com/clients
+From boutique culinary labels to thriving e-commerce stores, discover how Aviv Msika rivals top social media management agencies — delivering bespoke strategy and breathtaking content at every scale.
+
+### Contact
+https://example.com/contact
+Ready to transform your brand presence? Connect with Aviv Msika for a tailored social media management service that fuses strategic thinking with luminous, scroll-stopping creative. Your next chapter starts here.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Aviv Msika
+Aviv Msika is a multidisciplinary creative professional operating at the intersection of strategy and visual artistry — a Social Media Manager, Creative Strategist, professional photographer, and video editor who handles projects entirely in-house from concept to production. The brand exudes an artistic, chic, and business-savvy identity tailored for high-end lifestyle, culinary, and e-commerce clients. The aesthetic vision is luminous and sophisticated — think clean typography, generous white space, and a softly feminine palette of cream, white, and muted sage green — designed to communicate both creative excellence and strategic authority.
+
+## Target Audience
+- High-end lifestyle, culinary, and e-commerce brands
+- High-End Lifestyle Brands
+- Gourmet Culinary Brands
+- Luxury E-commerce Brands
+
+## Industry
+Social Media Management & Creative Strategy
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
