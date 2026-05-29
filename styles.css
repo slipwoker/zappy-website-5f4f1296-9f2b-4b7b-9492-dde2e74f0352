@@ -8626,7 +8626,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
  * defaults for the preferences modal's two secondary pills). */
 #zappy-cookie-banner .zappy-cookie-banner__button--customize {
   background-color: transparent !important;
-  color: #937034 !important;
+  color: #73795e !important;
   border: none !important;
   padding: 0 8px !important;
   height: 32px !important;
@@ -9018,6 +9018,10 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+
+
+
 
 
 
